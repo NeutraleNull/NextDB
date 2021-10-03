@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextDB", "NextDB\NextDB.csproj", "{0E059C70-64A6-4AB5-9167-91D22F321DA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextDBTests", "NextDBTests\NextDBTests.csproj", "{4ED3172C-A3DA-4C6F-B185-C9A6E13B5253}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E059C70-64A6-4AB5-9167-91D22F321DA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E059C70-64A6-4AB5-9167-91D22F321DA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E059C70-64A6-4AB5-9167-91D22F321DA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E059C70-64A6-4AB5-9167-91D22F321DA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ED3172C-A3DA-4C6F-B185-C9A6E13B5253}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ED3172C-A3DA-4C6F-B185-C9A6E13B5253}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ED3172C-A3DA-4C6F-B185-C9A6E13B5253}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ED3172C-A3DA-4C6F-B185-C9A6E13B5253}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
